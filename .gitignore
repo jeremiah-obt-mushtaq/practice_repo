@@ -1,4 +1,4 @@
-example.csv
-OncologySampleExport.parquet
-OncologySampleExport.xlsx
-Query_Test.xlsx
+DM_MultiQuery/example.csv
+DM_MultiQuery/OncologySampleExport.parquet
+DM_MultiQuery/OncologySampleExport.xlsx
+DM_MultiQuery/Query_Test.xlsx
